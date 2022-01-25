@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078877638614",
+    "project_id": "firstfirebase-8000d",
+    "storage_bucket": "firstfirebase-8000d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078877638614:android:777214b58b295e90d25e77",
+        "android_client_info": {
+          "package_name": "com.sampam.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078877638614-vdch5965a36ti1adr1ueo9p1apglo21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLI8v3ppKCm0ohRMzRvNhRPC3vYUYT5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078877638614-vdch5965a36ti1adr1ueo9p1apglo21j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
